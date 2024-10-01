@@ -1,0 +1,2 @@
+(this.webpackJsonpMitsuo=this.webpackJsonpMitsuo||[]).push([[8],{127:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/DexBattle.e5877dff.md"}}]);
+//# sourceMappingURL=8.8d0d67b3.chunk.js.map
