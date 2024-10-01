@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[5],{122:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/the-truth-about-design.2f0caa6b.md"}}]);
+//# sourceMappingURL=5.6aa5b0e6.chunk.js.map
